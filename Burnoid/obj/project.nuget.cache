@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rrbY5BsZUv4SFZ4qoYTNS1Is7XMSCjT632f8kDuT2auvuhlTDf11N7liqQK82g3oNpuff54jJK0nkHbpUTdpqw==",
+  "success": true,
+  "projectFilePath": "H:\\repos\\UnmanagedMemory\\Burnoid\\Burnoid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtgin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mtgin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
